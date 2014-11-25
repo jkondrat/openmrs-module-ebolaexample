@@ -39,6 +39,7 @@
         <distro.artifactId>referenceapplication</distro.artifactId>
         <distro.version>2.2-SNAPSHOT</distro.version>
         <openMRSVersion>1.9.8</openMRSVersion>
+		<webservicesRestVersion>2.6</webservicesRestVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
